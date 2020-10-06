@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project Django_Tut -->
+<!-- Saved: 2020-09-05, 13:29:58 -->
+<!-- Copyright (C) 2020 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>a70bb24d7a442b27f7cce36eb8716b5ac12d88e8</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>E6Plugin</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>Django_Tutorial/create folder.py</Source>
+    <Source>Django_Tutorial/mysite/main/__init__.py</Source>
+    <Source>Django_Tutorial/mysite/main/admin.py</Source>
+    <Source>Django_Tutorial/mysite/main/apps.py</Source>
+    <Source>Django_Tutorial/mysite/main/migrations/__init__.py</Source>
+    <Source>Django_Tutorial/mysite/main/models.py</Source>
+    <Source>Django_Tutorial/mysite/main/tests.py</Source>
+    <Source>Django_Tutorial/mysite/main/urls.py</Source>
+    <Source>Django_Tutorial/mysite/main/views.py</Source>
+    <Source>Django_Tutorial/mysite/manage.py</Source>
+    <Source>Django_Tutorial/mysite/mysite/__init__.py</Source>
+    <Source>Django_Tutorial/mysite/mysite/asgi.py</Source>
+    <Source>Django_Tutorial/mysite/mysite/settings.py</Source>
+    <Source>Django_Tutorial/mysite/mysite/urls.py</Source>
+    <Source>Django_Tutorial/mysite/mysite/wsgi.py</Source>
+    <Source>Learning/2ndExample.py</Source>
+    <Source>Learning/CX-Freeze.py</Source>
+    <Source>Learning/Controlling Email Applications.py</Source>
+    <Source>Learning/Dictionary application.py</Source>
+    <Source>Learning/GUI.py</Source>
+    <Source>Learning/Megafile.py</Source>
+    <Source>Learning/Os_and_Sys.py</Source>
+    <Source>Learning/PyPDF2.py</Source>
+    <Source>Learning/PyQt5.py</Source>
+    <Source>Learning/String_Concat.py</Source>
+    <Source>Learning/Threading.py</Source>
+    <Source>Learning/WebMap.py</Source>
+    <Source>Learning/Website blocker.py</Source>
+    <Source>Learning/regular_expression.py</Source>
+    <Source>Learning/setup.py</Source>
+    <Source>Learning/tkinter.py</Source>
+    <Source>Learning/urllib.py</Source>
+    <Source>NLTK/1.tokenizing.py</Source>
+    <Source>NLTK/2.stopwords.py</Source>
+    <Source>NLTK/3.Stemming.py</Source>
+    <Source>NLTK/4.part of speech tagging.py</Source>
+    <Source>NLTK/5.chunking.py</Source>
+    <Source>NLTK/6.chinking.py</Source>
+    <Source>NLTK/7.Name Entry Recognition.py</Source>
+    <Source>NLTK/8.Lemmatizing.py</Source>
+    <Source>NLTK/9.Corpora.py</Source>
+    <Source>Personal/Basic_GUI_App.py</Source>
+    <Source>Personal/Covid.py</Source>
+    <Source>Personal/Geography.py</Source>
+    <Source>Personal/Gold.py</Source>
+    <Source>Personal/MFDataV.py</Source>
+    <Source>Personal/MF_Api.py</Source>
+    <Source>Personal/Mumbai_map.py</Source>
+    <Source>Personal/MutualFunds.py</Source>
+    <Source>Personal/MutualFunds_Baba.py</Source>
+    <Source>Personal/Progress_bar.py</Source>
+    <Source>Personal/Project1.py</Source>
+    <Source>Personal/Project2.py</Source>
+    <Source>Personal/Pygame.py</Source>
+    <Source>Personal/Python_GUI.py</Source>
+    <Source>Personal/Webscraping from a blocked link.py</Source>
+    <Source>Personal/Website_Builder.py</Source>
+    <Source>Personal/plotting_countries.py</Source>
+    <Source>Personal/website_all_articles.py</Source>
+    <Source>__init__.py</Source>
+  </Sources>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="GNUmakefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="Makefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+    <FiletypeAssociation pattern="makefile" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>

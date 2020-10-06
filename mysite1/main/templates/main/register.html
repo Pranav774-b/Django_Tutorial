@@ -1,0 +1,23 @@
+{% extends "main/header.html" %}
+{% block title %}Register{% endblock %}
+{% block content %}
+<!--
+<form method="POST">
+    {% csrf_token %}
+    {{form.as_p}}
+    <button class="btn" type="submit">register</button>
+</form>
+    -->
+
+<form method="POST">
+
+    {{form.as_table}}
+    <button class="btn" type='submit'>SIGN IN<value='sign_in'></button>
+</form>
+<!-- Sign Up Form -->
+<form method="POST">
+    {{form.as_p}}
+    <button class="btn" type='submit'>SIGN UP <value='sign_up'></button>
+</form>
+
+{% endblock %}

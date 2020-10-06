@@ -1,0 +1,9 @@
+React is a JavaScript Library  for building UI
+These apps run in the browser, so they run instantly in the user browser not rquiring any server 
+
+Webpage components - 
+    Header 
+    Side bar 
+    headline 
+    article content 
+
