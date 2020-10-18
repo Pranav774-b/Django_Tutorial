@@ -1,9 +1,31 @@
 React is a JavaScript Library  for building UI
 These apps run in the browser, so they run instantly in the user browser not rquiring any server 
 
+Javascript runs in the browser so the apps run quickly and users dont have to wait for page loads
+
+React is a Javascript library
+
 Webpage components - 
     Header 
     Side bar 
     headline 
     article content 
 
+Why React JS?
+    1) UI state becomes difficult to manage with Vanilla JS
+    2)  Allows to focus on Business Logic and is managed by a community and hence efficient
+    3) Huge Ecosystem and Active Community and hence solution is available
+
+React Alternative ?
+    1) Angular 
+    2) Vue JS
+    These are the most famous and can be used instead of React. But this course is using React. 
+
+Two Kinds of Web Applications 
+    1) Single Page applications 
+        Only one HTML page. Content is re-rendered on Client 
+    2) Multi Page applications 
+        Multiple pages. Content is rendered on server
+    Single page is better because you dont have to go to server and everything happens instantly 
+
+  
